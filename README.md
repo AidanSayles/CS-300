@@ -1,1 +1,3 @@
 # CS-300
+
+During this class I was taught different data structures, such as binary trees, hash tables, and linked lists. I studied both their strengths and their weaknesses along with when and how to use them. Most of my issues could be solved with research online and tutorials, or even help from a senior programmer in the family. This allowed me to overcome those challenges and learn how to deal with similar issues in the future. The project definitely helped me to switch my approach from using what I was most comfortable with to using what is best for the situation. Now my programs are much more concise and proper as I don't always use the same data structure and instead use the appropriate one, allowing for much better code.
